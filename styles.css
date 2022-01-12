@@ -1,16 +1,17 @@
 body {
   background-image:url(cupcake.jpg);
-  background-size: 60%;
+  background-size: 70%;
 }
 
 h1 {
   text-align: center;
   color: powderblue;
+  background-color: pink;
   font-size: 100px;
  font-style: italic;}
  button{
 
-font-size: 25px;}
+font-size: 45px;}
 table {
   image(size):100px;
 }
